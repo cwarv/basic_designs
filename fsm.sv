@@ -1,5 +1,4 @@
-
-module fsm()(
+module fsm (
     input logic clk,
     input logic resetn,
     input logic coin,
